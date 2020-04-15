@@ -1,0 +1,102 @@
+
+
+body{
+	height: 700px;
+ 
+    background-image: url('../img/img-bg.jpg');
+}
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+
+form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.header_box{
+    width: 115%;
+    background-color: blue;
+    color: white;
+    height: 60px;
+    
+ 
+    /* background-image: url('../Images/Icônes/ic-Login Form.png'); */
+
+}
+h4{
+    margin-left: 40%;
+    margin-top: -10%;   
+}
+.logo{
+    
+    margin-left: 45%;
+    background-color:black;
+    width: 100%;
+    margin: 0 auto;
+    height: 10%;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+
+    background-repeat: no-repeat;
+    background-position: 97%;
+}
+.imgLogo{
+  
+    float: left;
+    width: 58px;
+    height: 71px;
+}
+h3{
+    margin-left: 1%;
+    margin-top: 20px;
+    position: absolute;
+
+
+    
+}	
+.inputLogin {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-image: url('../img/img6.png');
+    background-repeat: no-repeat;
+    background-position: 97%;
+}
+    .inputPassword {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        background-image: url('../img/img5.png');
+        background-repeat: no-repeat;
+        background-position: 97%;
+    
+
+    }
+input[type=submit] {
+    background-color:blue;
+    color: white;
+   
+    padding: 14px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color:blue;
+    border: 1px solid blue;
+   
+}
