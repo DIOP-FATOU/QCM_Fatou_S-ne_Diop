@@ -1,18 +1,12 @@
-
-
 body{
 	height: 700px;
-    background-image: url('../img-bg.jpg');
-   
-
+    background-image: url('../img/img-bg.jpg');
 }
 #container{
     width:400px;
     margin:0 auto;
     margin-top:10%;
-    background-color: #ccc;
 }
-
 form {
     width:100%;
     padding: 30px;
@@ -24,14 +18,25 @@ form {
     width: 100%;
     background-color: blue;
     color: white;
-    background-image: url('../Images/Icônes/ic-Login Form.png');
-
 }
-h4{
-    margin-left: 40%;
-    margin-top: -10%;   
+.imgLogo{
+  
+    float: left;
+    width: 58px;
+    height: 71px;
 }
 h2{
+    margin-left: 45%;
+    background-color: blue;
+    width: 97%;
+    margin: 0 auto;
+    height: 10%;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    margin-top: 0.3%;   
+}
+h1{
     margin-left: 45%;
     background-color:black;
     width: 100%;
@@ -40,40 +45,39 @@ h2{
     text-align: center;
     line-height: 60px;
     color: white;
-}	
-.inputLogin {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    box-sizing: border-box;
 }
-    .inputPassword {
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        display: inline-block;
-        border: 1px solid #ccc;
-        box-sizing: border-box;
 
-    }
+
 input[type=submit]{
-    background-color:blue;
-    color: white;
-
-    padding: 14px 10px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    width: 30%;
-}
-input[type=submit]:hover {
-    background-color: white;
-    color:blue;
+    background-color:rgba(0, 153, 255, 0.671) ;
+    color:white;
     border: 1px solid blue;
+    padding: 14px 10px;
+    margin: 8px 1148px;
+    cursor: pointer;
+    width: 10%;
+    margin-top: -4%;
+    height: 5%;
+    
    
 }
-h3{
-    margin-left: 20px;
+.cadre1{
+    float: left;
+    width: 40%;
+    height: 300px;
+    border :groove;
+    background-color: white;
+    margin-top: 50px;
+
+}
+.cadre2{
+    float: left;
+    width: 48%;
+    height: 450px;
+    border :groove;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 200px;
+    
+    
 }

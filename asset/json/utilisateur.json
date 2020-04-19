@@ -1,0 +1,21 @@
+[
+    {
+        "nom": "diop",
+        "prenom": "fatou",
+        "password": "admin",
+        "login": "fatou",
+        "role":"admin",
+        "image":"../img/IMG_20190410_150628_4.jpg"
+        
+    },
+    {
+        "nom": "ba",
+        "prenom": "maman",
+        "password": "100",
+        "login": "maman10",
+        "role":"joueur",
+        "image":"../img/IMG_20190410_150628_4.jpg"
+
+      
+    }
+]

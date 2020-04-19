@@ -7,7 +7,7 @@ body{
     margin:0 auto;
     margin-top:10%;
 }
-form {
+.form {
     width:100%;
     padding: 30px;
     border: 1px solid #f1f1f1;
@@ -18,6 +18,12 @@ form {
     width: 100%;
     background-color: blue;
     color: white;
+}
+.imgLogo{
+  
+    float: left;
+    width: 58px;
+    height: 71px;
 }
 h2{
     margin-left: 45%;
@@ -40,13 +46,14 @@ h1{
     line-height: 60px;
     color: white;
 }
-input[type=submit]{
+
+
+.submit{
     background-color:rgba(0, 153, 255, 0.671) ;
     color:white;
     border: 1px solid blue;
     padding: 14px 10px;
     margin: 8px 1148px;
-   
     cursor: pointer;
     width: 10%;
     margin-top: -4%;
@@ -57,7 +64,7 @@ input[type=submit]{
 .cadre1{
     float: left;
     width: 40%;
-    height: 223px;
+    height: 300px;
     border :groove;
     background-color: white;
     margin-top: 50px;
@@ -66,12 +73,51 @@ input[type=submit]{
 .cadre2{
     float: left;
     width: 48%;
-    height: 423px;
+    height: 500px;
     border :groove;
     background-color: white;
     margin-top: 10px;
     margin-left: 10px;
     
 }
+table{
+    width: 96%;
+    margin-left: 4%;
+    
+}
+
+.cadreTtableau{
+    border: groove;
+    width: 90%;
+    height: 78%;
+    text-align: center;
+    margin-left:30px;
+
+}
+.suivant{ 
+    float: right;
+    height: 34px;
+    background-color: #51bfd0;
+    color: white;
+    margin-right: 4%;
+    width: 87px;
+    margin-top: 8px
+ 
+}
+.cadre1-2{
+    background-color: white;
+    height: 100%;
+    width: 97%;
+}
+.userImg {
+    padding: 1.5%;
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: groove;
+}
+
+
 
 
