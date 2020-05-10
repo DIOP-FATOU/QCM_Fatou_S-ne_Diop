@@ -1,0 +1,85 @@
+[
+    {
+        "Question": "Les langages Web",
+        "Score": "6",
+        "type": "choixmultiple",
+        "Reponse": [
+            "HTML",
+            "R ",
+            "JAVA"
+        ]
+      
+    },
+    {
+        "Question": "Que signifit ODC",
+        "Score": "6",
+        "type": "choixsimple",
+        "Reponse": [
+            "Orange Digital Center",
+            "Organisation Des Colonies ",
+            "je sais pas"
+        ]
+    },
+    {
+        "Question": "D'o\u00f9 vient le Corona ?",
+        "Score": "6",
+        "type": "choixsimple",
+        "Reponse": [
+            "Italie",
+            "Chine",
+            "USA"
+        ]
+    },
+    {
+        "Question": "Les pr\u00e9curseurs de la r\u00e9volution digitale",
+        "Score": "8",
+        "type": "choixsimple",
+        "Reponse": [
+            "Simplon",
+            "Orange Digital Center"
+        ]
+    },
+    {
+        "Question": "Les pr\u00e9curseurs de la r\u00e9volution digital",
+        "Score": "6",
+        "type": "choixsimple",
+        "Reponse": [
+            "GAFAM",
+            "CIA-FBI "
+        ]
+    },
+    {
+        "Question": "Qui \u00e9tait Micheal Jackson?",
+        "Score": "8",
+        "type": "choixsimple",
+        "Reponse": [
+            "un musicien",
+            "un s\u00e9nateur",
+            "un basketteur"
+        ]
+    },
+    {
+        "Question": "",
+        "Score": "",
+        "type": "",
+        "Reponse": null
+    },
+    {
+        "Question": "",
+        "Score": "",
+        "type": "choixtext",
+        "Reponse": ""
+    },
+    {
+        "Question": "",
+        "Score": "",
+        "type": "choixtext",
+        "Reponse": ""
+    },
+    {
+        "Question": "",
+        "Score": "",
+        "type": "choixtext",
+        "Reponse": ""
+    }
+]

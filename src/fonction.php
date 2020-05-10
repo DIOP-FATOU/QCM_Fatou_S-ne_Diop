@@ -27,12 +27,20 @@ function role($login, $pwd ) {
     $teste = false;
     for ($i = 0; $i < count($objet); $i++) {
 
-        if ($login == $objet[$i]['login'] && $pwd == $objet[$i]['password']&& "admin" == $objet[$i]['role']) {
-          return 1;
+        if ($login == $objet[$i]['login'] && $pwd == $objet[$i]['password']) {
+
+           if($objet[$i]['role']==="admin"){
+                return "admin";
+                return $json[$i];
+               }elseif($objet[$i]['role']==="joueur"){
+                return "jeux";
+               
+               }
+         
           
         }   
     }
-    return 0;
+    
    
    
 

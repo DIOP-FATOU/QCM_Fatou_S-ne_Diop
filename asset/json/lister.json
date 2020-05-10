@@ -1,0 +1,51 @@
+[
+    {
+        "nom": "DIATTA",
+        "prenom": "Ibou",
+        "score": "1022",
+        "password": "120",
+        "login": "Ibou10",
+        "role":"admin"
+       
+    },
+    {
+        "nom": "NIANG",
+        "prenom": "Aly",
+        "score": "963",
+        "password": "100",
+        "login": "Aly10",
+        "role":"joueur"
+       
+      
+    },
+    {
+        "nom": "MBAYE",
+        "prenom": "Saliou",
+        "score": "887",
+        "password": "110",
+        "login": "Saliou10",
+        "role":"joueur"
+       
+      
+    },
+    {
+        "nom": "ba",
+        "prenom": "maman",
+        "score": "720",
+        "password": "100",
+        "login": "maman10",
+        "role":"joueur"
+       
+      
+    },
+    {
+        "nom": "       ",
+        "prenom": "modou",
+        "score": "720",
+        "password": "100",
+        "login": "maman10",
+        "role":"joueur"
+       
+      
+    }
+]

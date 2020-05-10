@@ -1,0 +1,560 @@
+body{
+   
+	height: 700px;
+    background-image: url('../img/img-bg.jpg');
+}
+#container{
+    width:400px;
+    margin:0 auto;
+    margin-top:10%;
+}
+.form {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.header_box{
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+.imgLogo{
+    float: left;
+    width: 58px;
+    height: 71px;
+}
+h2{
+    margin-left: 45%;
+    background-color: blue;
+    width: 97%;
+    margin: 0 auto;
+    height: 10%;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    margin-top: 0.3%;   
+}
+h1{
+    margin-left: 45%;
+    background-color:black;
+    width: 100%;
+    margin: 0 auto;
+    height: 10%;
+    text-align: center;
+    line-height: 60px;
+    color: white;
+}
+
+
+.submit{
+    background-color: #51bfd0;
+    color:white;
+    border: 1px solid blue;
+    padding: 14px 10px;
+    float: right;
+    margin-right: 3%;
+    cursor: pointer;
+    width: 2%;
+    margin-top: -4%;
+    height: 5%;
+    
+   
+}
+.cadre1-2{
+    background-color: white;
+    height: 100%;
+    width: 97%;
+    margin-top: 0.5%;
+    margin-left: 20px;
+}
+.cadre1{
+    float: left;
+    width: 40%;
+    height: 300px;
+    border :groove;
+    background-color: white;
+    margin-top: 50px;
+
+}
+.cadre2{
+    float: left;
+    width: 48%;
+    height: 500px;
+    border :groove;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.liste{
+    text-align: center;
+}
+table{
+    width: 96%;
+    margin-left: 4%;
+    
+}
+
+.cadreTtableau{
+    border: groove;
+    width: 90%;
+    height: 78%;
+    text-align: center;
+    margin-left:30px;
+    overflow: auto;
+    margin-top: 50px;
+
+}
+.suivant{ 
+    float: right;
+    height: 34px;
+    background-color: #51bfd0;
+    color: white;
+    margin-right: 4%;
+    width: 87px;
+    margin-top: 22px
+ 
+}
+.admin{
+    margin-right: 10%;
+}
+
+
+.userImg {
+    padding: 1.5%;
+    margin-left: 7%;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: groove;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 480px;
+    background-color: #f1f1f1;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  #img2{
+float: left;
+margin-top: -28px;
+margin-left: 450px;
+
+  }
+
+  
+.content{
+    padding-top: 10%;
+    width: 100%;
+    height: 437px;
+    background-image: url('../Images/img-bg.jpg');
+   
+}
+
+.NouveauJoueur {
+    margin-top: -11%;
+    margin-left: 11%;
+    /* float: left; */
+    background-color: white;
+    width: 78%;
+    border-radius: 2%;
+    color: #5f5f5f;
+    height: 519px;
+}
+
+.InscriptionJoueur {
+    margin-top: 2%;
+    font-family: inherit;
+    color: #5f5f5f;
+    width: 45%;
+    height: 33px;
+    font-size: 30px;
+    padding-left: 3%;
+}
+
+.Textejoueur {
+    color: #5f5f5f;
+    width: 66%;
+    height: 15px;
+    font-size: 12px;
+    padding-left: 3%;
+}
+
+.inputJoueur {
+    width: 110%;
+    height: 11%;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.labelJoueur {
+    font-size: 14px;
+    margin-bottom: 10%;
+    width: 99%;
+}
+
+.Imgjoueur {
+    margin-top: -6%;
+    float: right;
+    margin-right: -15%;
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    border: groove #51bfd0;
+}
+
+.hr {
+    float: left;
+    width: 75%;
+    background-color: #5f5f5f;
+}
+
+.texteheader1 {
+    height: 15px;
+    margin-left: 16.6%;
+    width: 65%;
+    line-height: 22px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.texteheader2 {
+    height: 15px;
+    padding-top: 2%;
+    margin-left: 5.9%;
+    width: 78%;
+    line-height: 12px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.deconnexionJoueur {
+    border-radius: 3%;
+    float: right;
+    margin-right: 1.5%;
+    margin-top: -3.9%;
+    width: 14%;
+    height: 30px;
+    text-transform: none;
+    line-height: 23px;
+    background-color: #3addd5;
+    color: #f8f5f5;
+}
+
+.joueurImgheader {
+    padding: .5%;
+    margin-left: -10%;
+    border-radius: 50%;
+    width: 62px;
+    height: 62px;
+}
+
+.contentHeader {
+    width: 100%;
+    height: 70px;
+}
+
+.Imgdiv {
+    float: left;
+    height: 52px;
+    margin-left: -1%;
+    width: 7.5%;
+}
+
+.usernameJoueur {
+    float: left;
+    margin-left: -9%;
+    margin-top: 3.5%;
+    height: 9px;
+    width: 12%;
+    font-size: 12px;
+}
+
+.contentjoueur {
+    float: left;
+    background-color: white;
+    margin-top: 1%;
+    width: 66%;
+    margin-left: 2%;
+    height: 410px;
+    border: solid #1a8faa;
+    border-radius: 2%;
+}
+.login {
+    padding-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 306px;
+    width: 50%;
+}
+
+.loginHeader {
+    line-height: 50px;
+    width: 100%;
+    text-align: left;
+    height: 65px;
+    font-size: large;
+    text-decoration: none;
+    color: white;
+    background-color: #51bfd0;
+}
+
+.loginContent {
+    width: 100%;
+    height: 245px;
+    background-color: rgb(240, 238, 238);
+}
+
+.inputLogin {
+    font-size: 15px;
+    background-color: #e6e3e3;
+    background-image: url('../Images/Icônes/ic-login.png');
+    background-position: 95%;
+    background-repeat: no-repeat;
+    border: none;
+    padding-left: 5%;
+    margin-top: 5%;
+    height: 45px;
+    width: 85%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.inputPassword {
+    font-size: 15px;
+    background-color: #e6e3e3;
+    background-image: url('../Images/Icônes/ic-password.png');
+    background-position: 95%;
+    background-repeat: no-repeat;
+    padding-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 45px;
+    width: 85%;
+    border: none;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+::placeholder {
+    margin-left: 15%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.submit {
+    color: white;
+    text-decoration: none;
+    width: 24%;
+    margin-left: 5%;
+    height: 44px;
+    font-size: 12px;
+    background-color: #51bfd0;
+}
+
+.inscrir {
+    color: rgb(160, 158, 158);
+    border: none;
+    width: 40%;
+    margin-left: 5%;
+    height: 44px;
+    font-size: 14px;
+}
+
+.contentNewJoueur {
+    margin-top: -11%;
+    margin-left: 11%;
+    /* float: left; */
+    background-color: white;
+    width: 78%;
+    border-radius: 2%;
+    color: #5f5f5f;
+    height: 519px;
+}
+
+.texteInscJoueur {
+    margin-top: 2%;
+    font-family: inherit;
+    color: #5f5f5f;
+    width: 45%;
+    height: 33px;
+    font-size: 30px;
+    padding-left: 3%;
+}
+
+.sousTextejoueur {
+    color: #5f5f5f;
+    width: 42%;
+    height: 15px;
+    font-size: 16px;
+    padding-left: 3%;
+}
+
+.inputJoueur {
+    width: 110%;
+    height: 11%;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.labelJoueur {
+    font-size: 14px;
+    margin-bottom: 10%;
+    width: 99%;
+}
+
+.joueurImg {
+    margin-top: -6%;
+    float: right;
+    margin-right: 5%;
+    border-radius: 50%;
+    width: 185px;
+    height: 185px;
+    border: groove #51bfd0;
+}
+
+.hr {
+    float: left;
+    width: 65%;
+    background-color: #5f5f5f;
+}
+
+input:invalid {
+    border: 2px groove red;
+}
+
+input:focus:invalid {
+    outline: none;
+}
+
+.error {
+    margin-bottom: 1%;
+    width: 100%;
+    padding: 0;
+    font-size: 80%;
+    color: white;
+    background-color: #900;
+    border-radius: 0 0 5px 5px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.error.active {
+    padding: 0.3em;
+}
+
+
+
+
+.contentaddAdmin {
+    margin-top: 1%;
+    margin-left: 2%;
+    float: left;
+    background-color: white;
+    width: 58%;
+    border-radius: 2%;
+    color: #5f5f5f;
+    height: 386px;
+}
+
+.sousTexte {
+    color: #5f5f5f;
+    width: 30%;
+    height: 24px;
+    font-size: 12px;
+    padding-left: 3%;
+}
+
+.texteInsc {
+    color: #5f5f5f;
+    width: 40%;
+    height: 24px;
+    font-size: 22px;
+    padding-left: 3%;
+}
+
+hr {
+    float: left;
+    width: 60%;
+    background-color: #5f5f5f;
+}
+
+.addminImg {
+    margin-top: -6%;
+    float: right;
+    margin-right: 5%;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    border: groove #51bfd0;
+}
+
+.adminAdd {
+    padding-left: 3%;
+    float: left;
+    margin-top: -1%;
+    width: 50%;
+    height: 87%;
+}
+
+.Avatar {
+    margin-right: 3%;
+    margin-top: 1%;
+    text-align: center;
+    float: right;
+    font-size: medium;
+    width: 30%;
+}
+
+label {
+    font-size: 82%;
+    margin-bottom: 3%;
+    width: 97%
+}
+
+.input {
+    width: 100%;
+    height: 8%;
+    border-radius: 2%;
+}
+
+.inputfile {
+    color: white;
+    float: right;
+    width: 44%;
+    height: 8%;
+    border-radius: 2%;
+}
+
+.buttonValider {
+    margin-left: 23%;
+    width: 45%;
+    height: 8%;
+    background-color: #51bfd0;
+    border-radius: 2%;
+    color: white;
+}
+
+
+  
