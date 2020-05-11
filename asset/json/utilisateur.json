@@ -3,7 +3,7 @@
         "nom": "diop",
         "prenom": "fatou",
         "password": "admin",
-        "login": "fatou",
+        "login": "admin",
         "role":"admin"
         
         
@@ -11,8 +11,8 @@
     {
         "nom": "ba",
         "prenom": "maman",
-        "password": "100",
-        "login": "maman10",
+        "password": "joueur",
+        "login": "joueur",
         "role":"joueur"
        
 

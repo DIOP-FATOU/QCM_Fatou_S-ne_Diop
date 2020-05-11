@@ -70,7 +70,7 @@ if(isset($objet))
 
 	<meta charset="utf-8">
 
-	<link rel="stylesheet" href="../asset/css/admin.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="../asset/css/lister.css" media="screen" type="text/css" />
 </head>
 
 <body>
@@ -125,4 +125,4 @@ if(isset($objet))
 
 </body>
 
-</html> 
+</html>
